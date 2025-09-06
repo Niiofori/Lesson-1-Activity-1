@@ -1,3 +1,9 @@
 p {
     color: red;
 }
+.myclass {
+    color: blue;
+}
+#myid {
+    color: orange;
+}
